@@ -12,6 +12,6 @@ export default class Hello extends Component {
           .text(this.props.text)
     }
     render() {
-       return <h1></h1>
+       return <h1 id="hi"></h1>
      }
 }
